@@ -1,3 +1,4 @@
+//Week-1 , Mentor-MOHD MOINUDDIN RANGREJ Sir
 //*************************(1)*********************************
 //3 types of variable declaration method 
 var x,x,z;  //it was used much during period 1995-2015
