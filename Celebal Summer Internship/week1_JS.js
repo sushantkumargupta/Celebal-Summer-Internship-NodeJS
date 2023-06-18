@@ -124,7 +124,7 @@ switch(val){
 
   default : console.log('I am the boss');
 }
-//default satatement executes where no conditions matches
+//default satatement executes when no conditions matches
 
 //loops- for, while, do while, for/in, for/of
 let person = {
