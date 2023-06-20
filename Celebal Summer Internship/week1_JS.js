@@ -21,7 +21,7 @@ let name,$name, _name; //--> defined
 
 
 //*************************(3)*********************************
-// var --> can be reclard again and again
+// var --> can be redeclared again and again
 var city="acd"; 
 var city="gfd";
 console.log(city);
@@ -75,7 +75,7 @@ console.log((5>4)? 'yes': 'no');
 
 //*************************(5)*********************************
 //Data types
-//primitive - number, string, boolean, null, undefinedm object
+//primitive - number, string, boolean, null, undefined
 console.log(typeof(5), typeof('5')); //--> number, string
 
 let qqq;
