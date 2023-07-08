@@ -1,3 +1,6 @@
+//Week-2 , Mentor-MOHD MOINUDDIN RANGREJ Sir
+//*************************(1)*********************************
+
 //spread - unpack elements of [] , {}
 //rest - pack element
 
